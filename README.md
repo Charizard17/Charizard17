@@ -20,3 +20,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VsCode" width="25" height="25" />
 </p>
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=Charizard17&color=orange">
+</p>
